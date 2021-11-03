@@ -40,25 +40,25 @@ const fetchPrice=async(cType)=>{
         </td>
         <td>Value</td>
     </tr>
-    <tr>
+    <tr style="color:green;">
         <td>
             ${base}
         </td>
         <td >${price} ${target}</td>
     </tr>
-    <tr>
+    <tr style="color:green;">
         <td>
             Volume
         </td>
         <td >${volume}</td>
     </tr>
-    <tr>
+    <tr style="color:green;">
         <td>
             Change
         </td>
         <td >${change}</td>
     </tr>
-    <tr>
+    <tr style=" color:green;">
         <td>
             Last update
         </td>
